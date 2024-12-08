@@ -44,9 +44,13 @@
 -The User Interface (UI) section covers the main features that allow users and administrators to interact with the platform. These components are designed to be intuitive and user-friendly, ensuring a smooth experience for everyone involved:
 
 -REGISTER 
+
 -LOG IN
+
 -DASHBOARD
+
 -ADMIN LOG IN
+
 -ADMIN DASHBOARD     
 
 
