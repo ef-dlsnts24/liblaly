@@ -60,6 +60,7 @@
 
 
 **CONTRIBUTORS**
+
 *QA TESTER & DOCUMENTATION: Eunice Fatima A. Delos Santos*
 
 *DEVELOPER: Jashmin Joy C. Terrado*
