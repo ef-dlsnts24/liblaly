@@ -45,16 +45,20 @@
 
 -The User Interface (UI) section covers the main features that allow users and administrators to interact with the platform. These components are designed to be intuitive and user-friendly, ensuring a smooth experience for everyone involved:
 
--REGISTER 
+💻 REGISTER 
+- Allow users to create a new account.
 
--LOG IN
+💻LOG IN
+- Enable users to access their personal dashboard.
 
--DASHBOARD
+💻 DASHBOARD
+- User's personalized interface to interact with the system.
 
--ADMIN LOG IN
+💻 ADMIN LOG IN
+- Dedicated login portal for administrators.
 
--ADMIN DASHBOARD     
-
+💻 ADMIN DASHBOARD     
+- A management interface with elevated privileges for system administration.
 
 **FRONT-END API INTEGRATION**
 ---
